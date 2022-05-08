@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Trend1</string>
+    <string name="bt_adminlog_login" />
+    <string name="et_adminlog_pw" />
+    <string name="et_adminlog_uname" />
+    <string name="et_cusprofile_name" />
+    <string name="et_cusprofile_email" />
+    <string name="et_cusprofile_address" />
+    <string name="et_cusprofile_phone" />
+    <string name="rb_cusprofile_male" />
+    <string name="rb_cusprofile_female" />
+    <string name="et_cusprofile_pw" />
+    <string name="bt_cusprofile_submit" />
+    <string name="et_cuslogin_username" />
+    <string name="et_cuslogin_Password" />
+    <string name="tv_cuslogin_forget_pw" />
+    <string name="bt_cuslogin_login" />
+    <string name="tv_cuslogin_signup" />
+    <string name="tv_cuslogin_log_as_admin" />
+</resources>
